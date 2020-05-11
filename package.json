@@ -1,5 +1,5 @@
 {
-  "name": "packmap",
+  "name": "@pih/packmap",
   "version": "1.2.0",
   "description": "Turn a package.json into a browser-ready import map",
   "main": "lib/packmap.js",
